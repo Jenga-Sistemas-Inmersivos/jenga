@@ -1,0 +1,7 @@
+#reset {
+    padding: 2em;
+}
+
+#reset>button {
+    font-size: 1.2rem;
+}
